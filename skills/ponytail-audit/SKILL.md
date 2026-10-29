@@ -1,11 +1,8 @@
 ---
 name: ponytail-audit
-description: >
-  Quality audit of a whole repo: bugs, security holes, what breaks under real
-  load, risky code without tests, slow paths, and what to delete, merge or
-  split. Ranked, each finding explained in plain English. One-shot report,
-  changes nothing. Use for "audit this codebase", "review the whole repo",
-  "find bloat", "what can I delete", /ponytail-audit.
+description: "Quality audit of the whole repo: bugs, security, real load, missing tests, speed, and what to delete. Most important first."
+homepage: https://github.com/DietrichGebert/ponytail
+license: MIT
 ---
 
 Audit the whole repo like the senior developer who just inherited it and

@@ -1,9 +1,8 @@
 ---
 name: ponytail-gain
-description: >
-  Show ponytail's measured savings (code, cost, speed) from the benchmark.
-  One-shot display. Use for /ponytail-gain, "what does ponytail save",
-  "ponytail impact".
+description: "Show ponytail measured impact as a scoreboard: less code, less cost, more speed, from the agentic benchmark averages. One-shot display."
+homepage: https://github.com/DietrichGebert/ponytail
+license: MIT
 ---
 
 # Ponytail Gain

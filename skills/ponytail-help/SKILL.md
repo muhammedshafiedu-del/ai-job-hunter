@@ -1,8 +1,8 @@
 ---
 name: ponytail-help
-description: >
-  Quick reference for ponytail levels, skills and commands. One-shot display.
-  Use for /ponytail-help, "ponytail help", "how do I use ponytail".
+description: "Quick reference for ponytail's modes, skills, and commands. One-shot display."
+homepage: https://github.com/DietrichGebert/ponytail
+license: MIT
 ---
 
 # Ponytail Help
